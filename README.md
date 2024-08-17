@@ -1,4 +1,5 @@
 # MachineLearning
+AUT Machine Learning Course
 
 Here are my solutions to Amirkabir University of Technology Machine Learning course projects.
 A list of project titles is given below:
